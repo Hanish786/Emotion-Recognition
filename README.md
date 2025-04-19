@@ -1,5 +1,4 @@
-# Emotion-Recognition
-# Emotion Detection Project
+# Emotion Detection 
 
 This project uses OpenCV and deep learning to detect faces in images or video streams and classify their emotions.
 
